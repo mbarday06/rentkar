@@ -33,3 +33,8 @@ All services run seamlessly using Docker Compose with a single command.
 ```bash
 git clone https://github.com/mbarday06/rentkar-assignment.git
 cd rentkar-assignment
+
+### 🧩 Environment Setup
+1. Copy the sample environment file:
+   ```bash
+cp .env.example .env
