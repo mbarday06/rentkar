@@ -31,5 +31,5 @@ All services run seamlessly using Docker Compose with a single command.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/rentkar-assignment.git
+git clone https://github.com/mbarday06/rentkar-assignment.git
 cd rentkar-assignment
