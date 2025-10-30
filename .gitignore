@@ -31,3 +31,7 @@ Thumbs.db
 *.bak
 *.old
 *.log
+
+# Environment files
+.env
+.env.local
